@@ -1,0 +1,33 @@
+body {
+    font-style: ;
+    background-image: url(1.jpg);
+
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+h1 {
+    text-align: center;
+    color: black;
+
+}
+
+#p1 {
+    background-color: khaki;
+    padding: 2px;
+    border: 10px;
+    color: indianred;
+    font-size: 25px;
+    text-align: justify;
+    text-decoration: :line-through;
+}
+
+#p2 {
+    border: 2px;
+    background-color: greenyellow;
+    color: darkblue;
+    font-size: 25px;
+    text-align: justify;
+}

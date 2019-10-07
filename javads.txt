@@ -1,0 +1,12 @@
+try to create an array list of student object and sort the array list using the sort method of collection interface
+
+if you havent 
+on ur user defined class and tries to call the sort funct. from th earray list of ur user defined object than whuch exception will occur and why?
+
+step 1:
+OCP certification find it
+Step 2:
+Oca java se 8
+exam guide
+Step 3:
+PEGA

@@ -1,0 +1,130 @@
+{
+    padding: 0px;
+    margin: 0px;
+}
+#wrapper{
+    
+}
+section{
+    background-color: white;
+    height: 470px;
+    width: 800px;
+    border: 1px solid black; 
+    margin-left: 400px;
+    margin-top: 100px;
+    border: 1px solid silver;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+img{
+    width: 100px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+h3{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 23px;
+    font-weight: 300;
+    
+}
+input[type=text]{
+    margin-left: 28px;
+    margin-top: 20px;
+    width: 180px;
+    padding: 10px;
+    border-radius: 6px; 
+    border: 1px solid silver;
+}
+input[type=email]{
+    margin-left: 28px;
+    margin-top: 20px;
+    width: 413px;
+    padding: 10px;
+    border-radius: 6px; 
+    border: 1px solid silver;
+    
+}
+.stp{
+    font-size: 20px;
+    margin: -30px;
+    padding-left: 380px;
+}
+.text1{
+    margin-top: 45px;
+    margin-left: 28px;
+    font-size: 15px;
+}
+
+.text2{
+    margin-left: 28px;
+    margin-top: 8px;
+    font-size: 18px;
+    color: blue;
+}
+input[type=password]{
+    margin-left: 28px;
+    margin-top: 20px;
+    width: 180px;
+    padding: 10px;
+    border-radius: 6px; 
+    border: 1px solid silver;
+}
+.text3{
+    margin-left: 28px;
+    margin-top: 10px;
+}
+.text4{
+    margin-left: 28px;
+    margin-top: 55px;
+    color: blue;
+}
+input[type=button]{
+    background-color: skyblue; /* Green */
+    border: 1px solid silver;
+    color: white;
+    padding: 11px 35px;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.btn{
+    margin: -32px;
+    padding-left: 393px;
+}
+.img1{
+    margin: -400px;
+    padding-left: 900px;
+}
+.text5{
+    margin-top: 390px;
+    margin-left: 470px;
+    color: black;
+}
+.select{
+    margin-top: 25px;
+    margin-left: 400px;
+    
+}
+.text6{
+    color: darkgray;
+    margin: -18px;
+    margin-left: 950px;
+}
+.text7{
+    color: darkgray;
+    margin: -18px;
+    margin-left: 1050px;
+}
+.text8{
+    color: darkgray;
+    margin: -18px;
+    margin-left: 1160px;
+}

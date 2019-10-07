@@ -1,0 +1,5 @@
+Four attributes for every tag
+Id
+Class
+Style 
+Title
